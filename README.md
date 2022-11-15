@@ -1,7 +1,9 @@
 ### <h1>Hi there 👋</h1>
 
-<h2>a Front-End student</h2>
+<h2>Web Developer</h2>
 
-- 🌱 I’m currently learning HTML, CSS, Javascript and React;
+- :computer: I develop projects with HTML, CSS and Javascript;
+- 🌱 I'm starting my studies of Frameworks, like React;
 - 💬 Ask me about career transition and my journey learning to code;
-- 📫 How to reach me: @camilahrossi on Instagram;
+- 📫 How to reach me: contact.camilarossi@gmail.com;
+- https://www.linkedin.com/in/camila-rossi-82b2b667/
