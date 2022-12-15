@@ -4,9 +4,6 @@ My name is Camila
 I develop projects with HTML, CSS and Javascript :computer: <br/>
 Currently I'm studying Frameworks and Libraries 🌱
 
-
-![Camila Rossi GitHub stats](https://github-readme-stats.vercel.app/api?username=camilahrossii&theme=dracula) 
-
 ### Technologies
 <div style="display: inline-block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -16,11 +13,6 @@ Currently I'm studying Frameworks and Libraries 🌱
   <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-![Camila Rossi GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=camilahrossii&theme=dracula)
-
-
-<br/>
-<br/>
 
 📫 How to reach me: <br/>
 <br/>
