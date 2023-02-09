@@ -2,7 +2,7 @@
 #### Welcome to my GitHub!
 My name is Camila
 I develop projects with HTML, CSS and Javascript :computer: <br/>
-Currently I'm studying Frameworks and Libraries 🌱
+Studying System Analysis and Development - UniFatecie
 
 ### Technologies
 <div style="display: inline-block"><br/>
