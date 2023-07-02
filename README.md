@@ -1,8 +1,7 @@
 ### Hi there 👋
 #### Welcome to my GitHub!
 My name is Camila
-I develop projects with HTML, CSS and Javascript :computer: <br/>
-Studying System Analysis and Development - UniFatecie
+:computer: Studying System Analysis and Development - UniFatecie
 
 ### Technologies
 <div style="display: inline-block"><br/>
